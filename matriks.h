@@ -3,8 +3,7 @@
 
 /* Program   : matriks.h */
 /* Deskripsi : file HEADER modul matriks integer */
-/* NIM/Nama  : 24060125120010 / Fatimah Azzakiyah */
-/* Tanggal   : 8 Agustus 2026 */
+/* Pembuat :  fmmkyh (on Github) */
 /***********************************/ 
 
 #include <stdio.h>
